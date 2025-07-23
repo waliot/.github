@@ -1,12 +1,12 @@
 # Waliot — Fleet Management System | Валиот — Система Мониторинга Транспорта
 
-- [🌍 https://waliot.com](https://waliot.com) — Official website
-- [📘 https://wiki.waliot.com](https://wiki.waliot.com) — Technical documentation and product encyclopedia
+- [🌍 waliot.com](https://waliot.com) — Official website
+- [📘 wiki.waliot.com](https://wiki.waliot.com) — Technical documentation and product encyclopedia
 
 ---
 
 **Waliot** is a satellite-based fleet management platform designed to provide a full cycle of digital transport control.  
-The system belongs to the class of GPS/GLONASS vehicle tracking solutions and is used to monitor:
+The system belongs to the class of GPS | GLONASS vehicle tracking solutions and is used to monitor:
 
 - vehicle location and routes,
 - movement and stops,
@@ -17,7 +17,7 @@ Waliot is trusted by logistics companies, agricultural enterprises, construction
 
 ---
 
-**Waliot** — это платформа управления автопарком, обеспечивающая полный цикл цифрового контроля транспорта.  
+**Валиот** — это платформа управления автопарком, обеспечивающая полный цикл цифрового контроля транспорта.  
 Программное обеспечение относится к классу спутниковых систем мониторинга GPS/ГЛОНАСС и предназначено для:
 
 - отслеживания местоположения и маршрутов,
